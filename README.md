@@ -13,6 +13,7 @@
 
 ## Strong
 | 주도적으로 관심을 갖고 열심히 공부해 온 기술 및 분야입니다.
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
@@ -25,7 +26,6 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 ### BackEnd
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -35,6 +35,11 @@
 ![MyBatis](https://img.shields.io/badge/MyBatis-FF0000.svg?style=for-the-badge&logo=Mybatis&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-%236DB33F.svg?style=for-the-badge&logo=JPA&logoColor=white)
+
+### LLM Serving
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Uvicorn](https://img.shields.io/badge/uvicorn-%298729.svg?style=for-the-badge&logo=uvicorn&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
