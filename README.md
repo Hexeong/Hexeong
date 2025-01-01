@@ -6,7 +6,7 @@
 
 <div align="center">
   
-  [![Hexeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hexeong)](https://github.com/Hexeong/github-readme-stats)
+  [![Hexeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hexeong&show_icons=true)](https://github.com/Hexeong/github-readme-stats)
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=123macanic)](https://solved.ac/123macanic/)
   
 </div>
