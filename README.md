@@ -1,4 +1,15 @@
+<div align="center">
+  
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=%20Hexeong%20&fontAlign=30&fontSize=30&fontColor=FFFFFF&desc=I'm%20junior%20Backen-end%20developer&descAlign=60&descAlignY=50&color=FF5050&textBg=true)
+
+</div>
+
+<div align="center">
+  
+  [![Hexeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hexeong)](https://github.com/Hexeong/github-readme-stats)
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=123macanic)](https://solved.ac/123macanic/)
+  
+</div>
 
 ## Introduce
 | 자기 소개입니다.
