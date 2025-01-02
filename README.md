@@ -1,15 +1,14 @@
-<div align="center">
-  
-  ![reversal](https://capsule-render.vercel.app/api?type=rect&text=%20Hexeong%20&fontAlign=30&fontSize=30&fontColor=FFFFFF&desc=I'm%20junior%20Back-end%20developer&descAlign=60&descAlignY=50&color=FF5050&textBg=true)
-
-  [![Hexeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hexeong&show_icons=true)](https://github.com/Hexeong/github-readme-stats)
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=123macanic)](https://solved.ac/123macanic/)
-</div>
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=%20Hexeong%20&fontAlign=30&fontSize=30&fontColor=FFFFFF&desc=I'm%20junior%20Back-end%20developer&descAlign=60&descAlignY=50&color=FF5050&textBg=true)
 
 ## Introduce
-| 자기 소개입니다.
-- Backend 개발자를 꿈꾸는 학생 Hexeong입니다.
+- Backend 개발자 Hexeong입니다.
 - 다양한 프로젝트 활동 및 개인 공부를 하며 주도적 학습을 진행중입니다.
+
+## Github Stat
+[![Hexeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hexeong&show_icons=true)](https://github.com/Hexeong/github-readme-stats)
+
+## Algorithm BOJ
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=123macanic)](https://solved.ac/123macanic/)
 
 ## Strong
 | 주도적으로 관심을 갖고 열심히 공부해 온 기술 및 분야입니다.
