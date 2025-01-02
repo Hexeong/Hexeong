@@ -69,6 +69,10 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Github Project](https://img.shields.io/badge/Github%20Project-181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
+## Education
+- <a href="https://mtvs.kr/user/main">메타버스 아카데미 3기 백엔드 과정 참여(2024.04 ~ 2024.11)</a>
+- Inha University CSE 2020, Korea
+
 <!--
 **Hexeong/Hexeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
