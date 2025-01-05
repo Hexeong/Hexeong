@@ -29,10 +29,9 @@
 ### BackEnd
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white)
 ![MyBatis](https://img.shields.io/badge/MyBatis-FF0000.svg?style=for-the-badge&logo=Mybatis&logoColor=white)
-![Hibernate](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-%236DB33F.svg?style=for-the-badge&logo=JPA&logoColor=white)
 
 ### LLM Serving
@@ -53,7 +52,6 @@
 
 ### DevOps
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernates](https://img.shields.io/badge/Kubernates-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/Github%20Actions-%232088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ### Hosting Cloud Service
