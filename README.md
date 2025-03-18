@@ -68,6 +68,7 @@
 
 ## Certification
 - [SQLD(2025.03.)](https://www.dataq.or.kr/www/mypage/accept/result.do)
+- [Opic IM2(2025.03.)](https://www.opic.or.kr/opics/jsp/view/index.jsp)
 
 ## Education
 - <a href="https://mtvs.kr/user/main">메타버스 아카데미 3기 백엔드 과정 참여(2024.04 ~ 2024.11)</a>
