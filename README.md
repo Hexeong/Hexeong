@@ -58,6 +58,9 @@
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ### Version Control
 ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717.svg?style=for-the-badge&logo=github&logoColor=white)
