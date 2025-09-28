@@ -3,6 +3,10 @@ on:
   schedule:
     - cron: '30 18 * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
+  
 jobs:
   update-readme:
     name: Update Readme with Metrics
