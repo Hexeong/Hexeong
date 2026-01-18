@@ -18,8 +18,6 @@
 ### Language
 ![C++14](https://img.shields.io/badge/c++14-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### BackEnd
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -55,6 +53,8 @@
 ## Certification
 - [SQLD(2025.03.)](https://www.dataq.or.kr/www/mypage/accept/result.do)
 - [Opic IM2(2025.03.)](https://www.opic.or.kr/opics/jsp/view/index.jsp)
+- [AWS Certified Solutions Architect – Associate(2025.09.)](https://www.credly.com/badges/38f68244-a55c-492c-948e-2e4e7318aa6d)
+- [정보처리기사(2025.12.)](https://www.q-net.or.kr/man001.do?gSite=Q&gIntro=Y)
 
 ## Education
 - <a href="https://softeer-bootcamp.com/">HMG Softeer 7th 웹백엔드 직군 수료 중(2025.01 ~ 2025.02</a>
