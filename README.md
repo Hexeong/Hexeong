@@ -57,7 +57,7 @@
 - [정보처리기사(2025.12.)](https://www.q-net.or.kr/man001.do?gSite=Q&gIntro=Y)
 
 ## Education
-- <a href="https://softeer-bootcamp.com/">HMG Softeer 7th 웹백엔드 직군 수료 중(2025.01 ~ 2025.02</a>
+- <a href="https://softeer-bootcamp.com/">HMG Softeer 7th 웹백엔드 직군 수료(2025.01 ~ 2025.02</a>
 - <a href="https://mtvs.kr/user/main">메타버스 아카데미 3기 백엔드 과정 참여(2024.04 ~ 2024.11)</a>
 - Inha University CSE 2020, Korea
 
