@@ -23,14 +23,12 @@
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/springboot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162.svg?style=for-the-badge&logo=JUnit5&logoColor=white)
-![MyBatis](https://img.shields.io/badge/MyBatis-FF0000.svg?style=for-the-badge&logo=Mybatis&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-%236DB33F.svg?style=for-the-badge&logo=JPA&logoColor=white)
 
 ### Database
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase Firestore](https://img.shields.io/badge/firebase%20firestore-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
@@ -60,18 +58,3 @@
 - <a href="https://softeer-bootcamp.com/">HMG Softeer 7th 웹백엔드 직군 수료(2025.01 ~ 2025.02</a>
 - <a href="https://mtvs.kr/user/main">메타버스 아카데미 3기 백엔드 과정 참여(2024.04 ~ 2024.11)</a>
 - Inha University CSE 2020, Korea
-
-<!--
-**Hexeong/Hexeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
