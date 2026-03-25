@@ -1,4 +1,4 @@
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=%20Hexeong%20&fontAlign=30&fontSize=30&fontColor=FFFFFF&desc=I'm%20junior%20Back-end%20developer&descAlign=60&descAlignY=50&color=FF5050&textBg=true)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=%20Hexeong%20&fontAlign=30&fontSize=30&fontColor=FFFFFF&desc=I'm%20Back-end%20developer&descAlign=60&descAlignY=50&color=FF5050&textBg=true)
 - Backend 개발자 Hexeong입니다.
 - 다양한 프로젝트 활동 및 개인 공부를 하며 주도적 학습을 진행중입니다.
 
